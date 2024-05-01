@@ -1,0 +1,26 @@
+[
+  {
+    "firstName": "User1Name",
+    "lastName": "User1LastName",
+    "email": "mail1@gmail.com",
+    "birthDate": "1972-11-08",
+    "address": "User1Address",
+    "phoneNumber": "0385556633"
+  },
+  {
+    "firstName": "User2Name",
+    "lastName": "User2LastName",
+    "email": "mail2@gmail.com",
+    "birthDate": "1972-11-09",
+    "address": "User2Address",
+    "phoneNumber": "0385556633"
+  },
+  {
+    "firstName": "User3Name",
+    "lastName": "User3LastName",
+    "email": "mail3@gmail.com",
+    "birthDate": "1972-11-08",
+    "address": "User3Address",
+    "phoneNumber": "0385556633"
+  }
+]
